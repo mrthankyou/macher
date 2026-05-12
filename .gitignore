@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Compiled binaries
+mach_fuzzer
+webkit_ipc_target
+
+# Debug symbols
+*.dSYM/
+
+# Build artifacts
+*.o
+*.a
